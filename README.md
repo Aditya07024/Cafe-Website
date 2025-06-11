@@ -1,4 +1,4 @@
-# Kyara Beverages Website
+# Kyara Beverages
 
 ## Project Overview
 A responsive website for Kyara Beverages, showcasing their innovative millet-based fruit drinks. The website features a modern design that reflects the brand's commitment to combining tradition with innovation.

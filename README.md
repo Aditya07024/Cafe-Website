@@ -4,7 +4,7 @@
 A responsive website for Kyara Beverages, showcasing their innovative millet-based fruit drinks. The website features a modern design that reflects the brand's commitment to combining tradition with innovation.
 
 ## Live Demo
-[View Live Demo](#) <!-- Add your GitHub Pages or deployment link -->
+https://cafe-website0728.netlify.app
 
 ## Features
 - Responsive design that works across all devices (mobile ≤ 480px to desktop ≥ 1024px)

@@ -23,10 +23,9 @@ https://cafe-website0728.netlify.app
 ## Project Structure
 ```
 kyara-beverages-website/
-├── frontend/
-│   ├── index.html
-│   ├── style.css
-│   └── images/
+│├── index.html
+│├── style.css
+│└── images/
 │       ├── logo.png
 │       ├── featured-drink.png
 │       ├── millet-smoothie.png
@@ -50,7 +49,7 @@ kyara-beverages-website/
    ```bash
    cd kyara-beverages
    ```
-3. Open `frontend/index.html` in your browser:
+3. Open `index.html` in your browser:
    - On Mac: `open frontend/index.html`
    - On Windows: Double click the file in Explorer
    - Or use a local server: `python -m http.server 8000`
